@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="2" failures="0" name="com.coding.LetterTest" time="0.002" errors="0" skipped="0">
+  <properties>
+    <property name="idea.version" value="2023.1.5"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="17.0.9+11-LTS-201"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.9\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\Examination\letter"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Examination\letter"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="17.0.9+11-LTS-201"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Jick\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="maven.ext.class.path" value="D:\JetBrains\IntelliJ IDEA\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="D:\JetBrains\IntelliJ IDEA\plugins\maven\lib\maven3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17.0.9\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Lenovo\Fingerprint Manager Pro\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\IDM Computer Solutions\UltraEdit;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Java\jdk-1.8\bin;D:\Maven-3.9\bin;D:\MinGW\bin;D:\scala3-3.2.2\bin;D:\Python3.8.10;D:\Python3.8.10\Scripts;D:\gradle-8.0\bin;D:\groovy-4.0\bin;D:\lua5.3.5_x64\bin;D:\node-v12.22.10-win-x64;D:\node-v12.22.10-win-x64\node_global;D:\GO_1.21\bin;D:\GitHubDesktop\bin;D:\Docker Toolbox;D:\oracle_instantclient_12_2_x64;D:\Git2.23.0_64\bin;D:\android-ndk-r17c;D:\rocketmq-5.1.4\bin;D:\sbt\bin;D:\hadoop-3.3.6\bin;D:\hadoop-3.3.6\sbin;D:\hive-3.1.3\bin;D:\spark-3.5.0\bin;D:\kafka_3.6.1\bin\windows;."/>
+    <property name="jansi.passthrough" value="true"/>
+    <property name="maven.conf" value="D:\JetBrains\IntelliJ IDEA\plugins\maven\lib\maven3/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="61.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\Jick"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="17"/>
+    <property name="user.name" value="Jick"/>
+    <property name="java.class.path" value="D:\JetBrains\IntelliJ IDEA\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar;D:\JetBrains\IntelliJ IDEA\plugins\maven\lib\maven3\boot\plexus-classworlds.license"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2023.1.5 test"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17.0.9"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="17.0.9"/>
+    <property name="native.encoding" value="GBK"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\JetBrains\IntelliJ IDEA\plugins\maven\lib\maven3"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2023-10-17"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.coding.LetterTest" name="testReplaceChars2" time="0.002"/>
+  <testcase classname="com.coding.LetterTest" name="testReplaceChars" time="0"/>
+</testsuite>
